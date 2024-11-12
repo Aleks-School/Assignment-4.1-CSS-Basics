@@ -18,8 +18,8 @@ _Constitution Information:_
 
 
 **Future Improvements:**  
-Replace current HTML file content data to XML files for use with the site, give content a separate
-CSS file and dress it up with better embedding, re-work the page index with more options and better grouping,
+Replace current HTML file content data to XML files for use with the site, rework the full text display, give content
+a separate CSS file and dress it up with better embedding, rework the page index with more options and better grouping,
 add in-site links and custom id's for improved site navigation, improve the site UI, re-do the code to reflect
 the other improvements, as well as undo some existing functionality, and finally add more information about the
 Constitution and its' history. Will also organize the resource system into a few additional subcategories.
