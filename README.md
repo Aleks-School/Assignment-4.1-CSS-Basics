@@ -6,7 +6,7 @@ and/or become more accustomed the elements of website design.
 
 **Sources:**
 
-_Constitution Data:_
+_Constitution Content:_
 - https://constitution.congress.gov/constitution/
   
 _Constitution Information:_
