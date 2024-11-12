@@ -1,0 +1,20 @@
+/**
+A stand-alone style sheet that will contain the styling data
+for the Declaration of Independence content. This will make it
+more organized and more separated. Although the original
+intention WAS to make the embedded content blend in seamlessly
+with the main site page, which it did fine with, segregating
+them will make it better-organized.
+**/
+
+/**
+Example Style Classes:
+
+.article_title{
+    hsl(235, 9%, 10%)
+}
+
+.amendment_title{
+    color: hsl(227, 100%, 40%);
+}
+**/
