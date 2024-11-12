@@ -27,3 +27,6 @@ Constitution and its' history. Will also organize the resource system into a few
 **Considering:**
 Wikipedia API Usage: I already made a Wikipedia search-engine a few years ago, so I might not have as much to learn.
 CSS Variables: Add custom themes to the website. Unneccessary but potentially interesting.
+
+**Note:** I have run into a problem of padding/positioning not aligning properly no matter how I align the elements.
+I'll need to learn more about margin collapse.
