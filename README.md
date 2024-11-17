@@ -24,6 +24,12 @@ add in-site links and custom id's for improved site navigation, improve the site
 the other improvements, as well as undo some existing functionality, and finally add more information about the
 Constitution and its' history. Will also organize the resource system into a few additional subcategories.
 
+The HTML will also be re-done to give the site better structure organization and make site navigation easier. Some
+improvements will be: replacing the `<embed>` tag with the `<section>` tag, moving the index to within an `<aside>` tag,
+better organization of the `<header>` elements, ect.
+The CSS will also include some better styling options, such as: `aria-current` for the current selected content,
+adding more classes for content, better image styling, button images, ect.
+
 **Considering:**
 Wikipedia API Usage: I already made a Wikipedia search-engine a few years ago, so I might not have as much to learn.
 CSS Variables: Add custom themes to the website. Unneccessary but potentially interesting.
