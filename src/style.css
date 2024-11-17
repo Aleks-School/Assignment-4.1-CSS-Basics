@@ -1,10 +1,11 @@
 /* Set all the default values for specific tags */
 body{
     background: linear-gradient(to bottom, hsl(47, 40%, 70%), hsla(35, 26%, 55%)); /*background: linear-gradient(to bottom, hsl(65, 40%, 70%), hsl(47, 26%, 55%)); /* Sets the default the background a gradient */
-    font-family: times new roman, arial; /* Set the default font */
+    font-family: "times new roman", arial; /* Set the default font */
     padding: 0;
     margin: 0; /* Sets the default margin to 0 */
     color: hsl(187, 9%, 15%);
+    overflow-x: hidden;
     /* Set the default text color; Also switched to hue, saturation, lightness color space since it's more human-readable than hex. */
     /* Even though HEX is readable, between hsl, hsv/hsb, and rgb the mental calculations are easier than converting to a different number base and are thus easier to work with.*/
 }
@@ -59,14 +60,13 @@ button:disabled{
     border-style: none;
     width: 100%;
     height: auto;
+    overflow-y: hidden;
 }
 
 #banner { /* The image at the top of the page */
     max-width: 100%;
     height:auto;
     content: url("resources/images/meeting.jpg");
-    margin-top: -19px;
-    padding: 0;
     display: block;
     /* Make the image automatically rescale to the page size and get rid of whitespace for the header below */
 }

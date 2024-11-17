@@ -77,7 +77,7 @@ frame.onload = function() { //resize frame when it updates
     let index = getIndex(document.location.pathname.split("/").pop());
     if (index != null) pageIndex = index;
     
-    frame.style.height = (document.body.scrollHeight + 'px');
+    frame.style.height = (document.body.scrollHeight + 1 + 'px'); //Add +1 to disable the scroll bar due to content size
 }
 
 prev.onclick = x => setPage(-1, prev);
